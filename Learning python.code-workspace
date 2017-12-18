@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "/home/xprodigy/.my_executables"
+		}
+	],
+	"settings": {
+		"editor.tabCompletion": true,
+		"files.autoSave": "afterDelay"
+	}
+}
