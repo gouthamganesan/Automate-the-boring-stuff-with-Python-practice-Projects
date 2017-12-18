@@ -1,1 +1,1 @@
-#Hai
+#!/usr/bin/python
